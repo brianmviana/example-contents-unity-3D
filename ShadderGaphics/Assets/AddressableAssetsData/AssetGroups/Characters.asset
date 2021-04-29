@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Characters
+  m_EditorClassIdentifier: 
+  m_GroupName: Characters
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 42b817aac7ec39242aaf398ad31e23aa
+  m_SerializeEntries:
+  - m_GUID: 910177ec26b76c14996c2d53627a6def
+    m_Address: Characters/PolyartCharacter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7072444061591711186, guid: 910177ec26b76c14996c2d53627a6def,
+      type: 3}
+    m_TargetAsset: {fileID: 7072444061591711186, guid: 910177ec26b76c14996c2d53627a6def,
+      type: 3}
+  - m_GUID: f432554f564e69242897607d34218939
+    m_Address: Characters/PBRCharacter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2836004475591695743, guid: f432554f564e69242897607d34218939,
+      type: 3}
+    m_TargetAsset: {fileID: 2836004475591695743, guid: f432554f564e69242897607d34218939,
+      type: 3}
+  - m_GUID: c98043d57e0190845b790d7b92990bee
+    m_Address: Characters/HPCharacter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7673487251499248760, guid: c98043d57e0190845b790d7b92990bee,
+      type: 3}
+    m_TargetAsset: {fileID: 7673487251499248760, guid: c98043d57e0190845b790d7b92990bee,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 552648e87d3a3e34ba400f2e48bc1307, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 84c0dc6331e763042bc1be9c31c0fd5d, type: 2}
+    - {fileID: 11400000, guid: 1646f4ac85618cb44abcf98128dab9d8, type: 2}
